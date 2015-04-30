@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\workspace02\ActionBar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\workspace02\ActionBar\app\build\intermediates\pre-dexed\debug\classes-a119b999cd8f4195f9ccd86f84949562e4d49f78.jar" />
+    </item>
+    <item
+        jar="D:\workspace02\ActionBar\app\achartengine-1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2bb0af9f390c0edd4d7d95f613f38da3abe0144">
+        <dex dex="D:\workspace02\ActionBar\app\build\intermediates\pre-dexed\debug\achartengine-1.0.0-a68d6f3b6658ea8f30d8440e93437c891c3291a5.jar" />
+    </item>
+    <item
+        jar="D:\SDK\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\workspace02\ActionBar\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-81325777788ae5e20c04d7bbe1e9c69074169ccd.jar" />
+    </item>
+
+</items>
